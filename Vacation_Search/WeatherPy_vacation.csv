@@ -54,7 +54,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 181,Poum,NC,75.52,scattered clouds,-20.2333,164.0167,Gîte kajeon
 183,Madang,PG,80.13,light rain,-5.2246,145.7966,Comfort Inn Hotel
 184,Isabela,PH,77.05,overcast clouds,6.7085,121.9711,Isawad Resort
-185,Adre,TD,81.28,overcast clouds,13.4667,22.2,Isawad Resort
+185,Adre,TD,81.28,overcast clouds,13.4667,22.2,
 187,Marihatag,PH,81.46,broken clouds,8.7936,126.2969,Mariner's Place & Resort
 195,Crestview,US,88.12,clear sky,30.7621,-86.5705,"Holiday Inn Express & Suites Crestview South I-10, an IHG Hotel"
 197,Hasaki,JP,77.29,moderate rain,35.7333,140.8333,Hotel Sunrise Choshi
@@ -96,7 +96,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 308,Bilma,NE,89.13,clear sky,18.6853,12.9164,Expeditions Ténére voyages
 309,Tarakan,ID,78.3,light rain,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
 314,Jingdezhen,CN,81.48,light rain,29.2947,117.2079,Garden Hotel
-317,Birao,CF,79.68,overcast clouds,10.2849,22.7882,Garden Hotel
+317,Birao,CF,79.68,overcast clouds,10.2849,22.7882,
 323,Puerto Parra,CO,78.78,broken clouds,6.6515,-74.0573,Brisas del Carare
 325,Shancheng,CN,76.15,overcast clouds,34.7953,116.0817,Shanxian Golden Dragon Hotel
 329,Port-Gentil,GA,80.56,few clouds,-0.7193,8.7815,Fengshui Residence
@@ -121,7 +121,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 400,Fortuna,US,78.19,few clouds,40.5982,-124.1573,Super 8 by Wyndham Fortuna
 402,Kalmunai,LK,78.46,overcast clouds,7.4167,81.8167,VS Villa
 403,Zhuhai,CN,86.11,scattered clouds,22.2769,113.5678,Nanyang Seascape Hotel Zhuhai Hotel
-406,Yuli,NG,75.29,light rain,9.6989,10.2744,Nanyang Seascape Hotel Zhuhai Hotel
+406,Yuli,NG,75.29,light rain,9.6989,10.2744,
 417,Abu Dhabi,AE,87.82,clear sky,24.4667,54.3667,Ramee Garden Hotel Apartments
 418,Coahuayana,MX,81.88,overcast clouds,18.7333,-103.6833,El rranchito michuacan de ocampos
 419,Tual,ID,80.87,broken clouds,-5.6667,132.75,Grand Vilia Hotel
@@ -162,7 +162,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 542,Half Moon Bay,US,88.12,clear sky,37.4636,-122.4286,"The Ritz-Carlton, Half Moon Bay"
 543,Port Blair,IN,82.63,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
 544,Innisfail,AU,84.87,broken clouds,-17.5333,146.0333,Moondarra Motel
-546,Gamba,GA,76.06,overcast clouds,-2.65,10.0,Moondarra Motel
+546,Gamba,GA,76.06,overcast clouds,-2.65,10.0,
 549,Ewa Beach,US,87.75,scattered clouds,21.3156,-158.0072,Uncle Junior Robert
 552,Thaton,MM,75.81,moderate rain,16.9206,97.3714,Tain Pyar Guest House
 555,College,US,83.59,few clouds,64.8569,-147.8028,Pike's Waterfront Lodge
